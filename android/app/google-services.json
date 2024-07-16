@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "678381542353",
+    "project_id": "chat-karo-311c9",
+    "storage_bucket": "chat-karo-311c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678381542353:android:71290ed879e50ac14bdef0",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678381542353-u7umtcl77greqt9sjds5rs9igaf1e6n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "776b1c5b5b24e87bbad807fc0f3ef94cff796e5c"
+          }
+        },
+        {
+          "client_id": "678381542353-h5r7grffdckj2ttd34shd0huc0jcuc4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbcTxUkN1k3YPrB9TZeNU3-JETE1XH_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678381542353-h5r7grffdckj2ttd34shd0huc0jcuc4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678381542353-hocotle2m2uuopu57l7mql7lmm4c9f9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
